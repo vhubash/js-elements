@@ -8,7 +8,6 @@ const box = document.getElementById('box'),
 
 
 console.dir(box);
-
 box.style.width = '500px';
 box.style.backgroundColor = 'orange';
 
